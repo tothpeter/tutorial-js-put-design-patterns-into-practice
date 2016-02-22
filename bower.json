@@ -1,0 +1,28 @@
+{
+  "name": "jspatterns",
+  "description": "Code examples for the Put Design Patterns into Practice course",
+  "main": "index.js",
+  "authors": [
+    "Peter Toth <tothpeter08@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "JavaScript",
+    "design",
+    "patterns"
+  ],
+  "homepage": "https://github.com/tothpeter/tutorials-js-put-design-patterns-into-practice",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "requirejs": "^2.1.22"
+  }
+}
