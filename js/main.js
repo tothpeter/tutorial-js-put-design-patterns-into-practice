@@ -10,5 +10,8 @@ require(
     window.runExample = function(example) {
       examples[example].init();
     };
+
+    // window.runExample('factory');
+    window.runExample('pubsub');
   }
 );
